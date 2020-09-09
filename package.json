@@ -1,0 +1,31 @@
+{
+  "name": "jsexcel",
+  "version": "1.0.0",
+  "description": "Pure JavaScript Excel Application",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viktorvinitski/excelJS.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "excel"
+  ],
+  "author": "Viktor Vinitski <fireworkv0@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viktorvinitski/excelJS/issues"
+  },
+  "homepage": "https://github.com/viktorvinitski/excelJS#readme",
+  "private": true,
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
