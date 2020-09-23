@@ -13,7 +13,11 @@
         "linebreak-style": "off",
         "space-before-blocks": "off",
         "eol-last": "off",
-        "indent": "off"
+        "indent": "off",
+        "no-trailing-spaces":"off",
+        "object-curly-spacing":"off",
+        "quotes":"off",
+        "operator-linebreak":"off"
     },
     "extends": ["eslint:recommended", "google"]
 }
